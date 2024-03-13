@@ -1,6 +1,6 @@
 Configurar o GIT Local
-git config --global user.name itsquelc
-git config --global user.email raquelnunescirino@gmail.com
+git config --global user.name OrtigosaLaura
+git config --global user.email lauraortigosa378@gmail.com
 
 Criar um projeto MVC (padrão de desenvolvimento) com C#
 -o (significa a saída) - pasta
@@ -10,4 +10,4 @@ Executar o projeto
 cd Pokedex
 dotnet watch run
 
-Terminei a pag 104
+Terminei a pag 133
