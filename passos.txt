@@ -10,4 +10,4 @@ Executar o projeto
 cd Pokedex
 dotnet watch run
 
-Terminei a pag 133
+Terminei a pag 159
