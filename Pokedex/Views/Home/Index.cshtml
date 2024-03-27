@@ -52,7 +52,8 @@
                                 @foreach (var tipo in pokemon.Tipo)
                                 {
                                 <a href="#" class="btn my-2 text-white"
-                                style="background-color:@Cor(tipo)">@tipo</a>
+                                style="background-color:@Cor(tipo)"
+                                onclick="filter('@tipo')">@tipo</a>
                                 }
                             </div>
                         </div>
